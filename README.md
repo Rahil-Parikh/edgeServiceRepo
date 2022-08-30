@@ -1,2 +1,2 @@
-# Sample Java SpringBoot Rest Controller Application  - edgeServiceRepo
-
+# EdgeServiceRepo
+A sample Java SpringBoot Rest Controller application
